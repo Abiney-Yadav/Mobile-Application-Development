@@ -7,4 +7,4 @@ Two of the models we tested from the API for face feature detection include one 
 
 ## Credits
 - Google ML Kit
-- @themobiledev
+
